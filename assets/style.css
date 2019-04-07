@@ -1,0 +1,44 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.jumbotron {
+  background-color: #052442;
+  /* margin-left: 20px;
+  margin-right: 20px; */
+}
+label,
+.form-control{
+  margin-top: 5px;
+}
+.submit{
+  float: right;
+  margin:10px;
+}
+
+#table {
+  border: .5px rgb(161, 43, 43) solid;
+  margin-bottom: 20px;
+}
+#form{
+  border: .5px rgb(179, 85, 85) solid;
+  padding: 10px 5px 55px 10px;
+}
+body{
+  margin-left: 50px;
+  margin-right: 50px;
+}
+h4{
+  font-size: 20px;
+  background-color: lightgray;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+h1 {
+color: white;
+text-align: center;
+}
+p{
+  color: white;
+  text-align: center;
+}
